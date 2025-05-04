@@ -1,0 +1,1 @@
+savedcmd_/home/test/Dokumente/syscall_counter_src_v2_1/syscall_counter_src/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/test/Dokumente/syscall_counter_src_v2_1/syscall_counter_src/Module.symvers -T /home/test/Dokumente/syscall_counter_src_v2_1/syscall_counter_src/modules.order -i Module.symvers -e 
